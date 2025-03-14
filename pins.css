@@ -1,0 +1,19 @@
+*{ text-align: center;
+    padding: 0%;
+    margin: 0%;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+body{
+    margin: 0px; 
+    background-image: url('Vid\ nya.gif') no-repeat;
+    background-size:auto;
+    color: #000;
+}
+p {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+}
+div {
+    text-align: left;
+
+}
